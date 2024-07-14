@@ -1,13 +1,5 @@
-im no longer updating
 
-
-
-
-
-
-.
-
-This is a fork of https://github.com/Snoogens101 ApexDMA im probably only gonna update offsets not add anything :D
+This is a fork of a fork of https://github.com/Snoogens101 ApexDMA
 
 Copiest of pastas using https://github.com/Metick/DMALibrary and https://github.com/Nexilist/xap-client
 
